@@ -26,5 +26,6 @@
 - 不要单独移动exe文件，可以移动exe的快捷方式。否则将导致不可用
 
 ## 其他作品
+[高情商聊天工具](http://haiwang.natapp1.cc/product.html)
 
 ## 觉得有用的, 可以帮忙点个star, 也方便你下次查找
