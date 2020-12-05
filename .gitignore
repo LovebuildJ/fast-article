@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+__pycache__/
+build/
+dist/
+venv
+*.spec
